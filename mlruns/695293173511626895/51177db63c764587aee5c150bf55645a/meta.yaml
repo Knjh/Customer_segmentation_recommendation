@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kanhaiya/jnotebook/customer/mlruns/695293173511626895/51177db63c764587aee5c150bf55645a/artifacts
+end_time: 1741372013951
+entry_point_name: ''
+experiment_id: '695293173511626895'
+lifecycle_stage: active
+run_id: 51177db63c764587aee5c150bf55645a
+run_name: debonair-robin-207
+run_uuid: 51177db63c764587aee5c150bf55645a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741371944369
+status: 3
+tags: []
+user_id: kanhaiya

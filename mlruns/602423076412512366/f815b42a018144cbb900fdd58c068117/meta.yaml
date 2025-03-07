@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kanhaiya/jnotebook/customer/mlruns/602423076412512366/f815b42a018144cbb900fdd58c068117/artifacts
+end_time: 1741372749410
+entry_point_name: ''
+experiment_id: '602423076412512366'
+lifecycle_stage: active
+run_id: f815b42a018144cbb900fdd58c068117
+run_name: glamorous-vole-12
+run_uuid: f815b42a018144cbb900fdd58c068117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741372707086
+status: 3
+tags: []
+user_id: kanhaiya
